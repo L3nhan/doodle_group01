@@ -1,4 +1,3 @@
-# doodle_group01
 DOODLE SEARCH TOOL
 =======================================
 + Supervisor	: LÊ THANH NHÂN
